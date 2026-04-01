@@ -1,5 +1,5 @@
 # Spatial epigenomics in FFPE tissues
-This repository documents scripts used for data analysis and visualization in our manuscript entitled 'Spatially Decoding Genotype-Associated Epigenetic Landscapes in Human Lymphoma FFPE Tissues via epi-Patho-DBiT', where we developed a platform that combines reverse crosslinking of FFPE tissues with spatially resolved assays for transposase-accessible chromatin using sequencing (spatial-FFPE-ATAC) or cleavage under targets and tagmentation (spatial-FFPE-CUT&Tag).
+This repository documents scripts used for data analysis and visualization in our manuscript entitled `Spatially Decoding Genotype-Associated Epigenetic Landscapes in Human Lymphoma FFPE Tissues via epi-Patho-DBiT`, where we developed a platform that combines reverse crosslinking of FFPE tissues with spatially resolved assays for transposase-accessible chromatin using sequencing (spatial-FFPE-ATAC) or cleavage under targets and tagmentation (spatial-FFPE-CUT&Tag).
 
 ![schematic](https://github.com/HaikuoLi/spatial_epigenome_FFPE/blob/main/workflow.jpeg)
 
